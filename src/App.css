@@ -1,0 +1,7 @@
+.player-music{
+    background-color:#111827 !important;
+    height: 6rem;
+}
+.player-music .rhap_time{
+    color: white;
+}
